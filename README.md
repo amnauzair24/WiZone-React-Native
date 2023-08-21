@@ -19,3 +19,5 @@ We extend a hearty invitation to the open-source community to partake in refinin
 Conjoin us in sculpting the forthcoming generation of e-commerce encounters – ones that are not only reactive but also resoundingly user-centric, fortified, and exuberantly performant. Together, let us redefine the contours of online shopping.
 
 Embark on your initiation by cloning the repository and delving into the codebase. We eagerly anticipate your contributions!
+
+**License:** [[MIT License]](https://github.com/Mohsin-mw/WiZone-React-Native/blob/main/LICENSE.txt)
